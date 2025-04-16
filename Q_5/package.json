@@ -1,0 +1,12 @@
+{
+  "name": "practical05q5",
+  "version": "1.0.0",
+  "description": "Dockerized Express App for DevOps Practical",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "express": "^4.18.4"
+  }
+}
